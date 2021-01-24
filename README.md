@@ -8,8 +8,9 @@ Here is some informations about the context :
 <li>The total number of tokens was 21 per player and the goal remained to align 4 tokens.</li>
 <li>AI was ranked according to their game result (win or lose) and their play' speed.</li>
 </ul>
+
+For more information about the subject instructions, go on the [IA_puissance4](https://github.com/ikhlo/Connect4/blob/main/IA_puissance4.pdf) file. 
 <br>
-For more information about the subject instructions, go on the [IA_puissance4](https://github.com/ikhlo/Connect4/blob/main/IA_puissance4.pdf) file.
 
 ### Collaborators
 
